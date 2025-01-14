@@ -5,7 +5,7 @@ export default defineConfigWithTheme({
   title: `Eric's Wiki`,
   description: "基于 VitePress 搭建的个人 Wiki",
   appearance: 'force-dark',
-  base: "/eric-wiki/",
+  base: "/wiki/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
