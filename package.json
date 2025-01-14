@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "docs:dev":"vitepress dev docs",
-    "docs:build":"vitepress build docs"
+    "dev":"vitepress dev docs",
+    "build":"vitepress build docs"
   },
   "keywords": [],
   "author": "",
