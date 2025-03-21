@@ -8,14 +8,13 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-.DS_Store
+coverage
 dist
 dist-ssr
-coverage
 *.local
 
-/cypress/videos/
-/cypress/screenshots/
+/cyperss/videos/
+/cypress/srceenshots/
 
 .vitepress/dist
 .vitepress/cache
@@ -24,8 +23,12 @@ coverage
 .vscode/*
 !.vscode/extensions.json
 .idea
+.DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+*storybook.log
+storybook-static
