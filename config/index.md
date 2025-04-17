@@ -5,17 +5,17 @@ layout: home
 hero:
   name: "fengdi"
   text: "fengdi blog"
-  tagline: My great project tagline
+  tagline: 认真工作，开心娱乐
   image:
     src: /vitepress-logo-large.svg
     alt: vitepress-theme
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 东北自驾
+      link: travel/northeast-china
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 东南亚行
+      link: travel/southeast-asia
 
 features:
   - icon: ⚡️
